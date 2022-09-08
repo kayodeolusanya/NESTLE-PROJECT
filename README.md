@@ -11,3 +11,7 @@ products with micronutrient fortification to address deficiencies.
 The company wants to expand its business by adding new product
 lines. However, the Head of Growth and Strategy suggested that it
 was important to know the performance of the current products.
+
+This is a Product Analytics done with Power Bi using Data Analysis Expressions(DAX) measures to gain key insights into the data
+
+<img src="""">
