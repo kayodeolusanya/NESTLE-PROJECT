@@ -14,4 +14,4 @@ was important to know the performance of the current products.
 
 This is a Product Analytics done with Power Bi using Data Analysis Expressions(DAX) measures to gain key insights into the data
 
-<img src="""">
+<img src="Nestle%20screenshot.png" width="800">
